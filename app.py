@@ -203,7 +203,7 @@ def main() -> None:
     st.set_page_config(
         layout="wide",
         page_title="WHO Outcomes Dashboard",
-        page_icon="assets/logo.png",
+        page_icon="assets/favicon.png",
     )
     inject_css()
 
